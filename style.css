@@ -1,0 +1,11 @@
+p{
+    color :black
+}
+
+body{
+    background-image: url(../img/pattern.jpg);
+}
+
+section { 
+    background-color: blue;
+}
